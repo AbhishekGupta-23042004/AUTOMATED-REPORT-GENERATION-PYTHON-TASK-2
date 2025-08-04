@@ -17,7 +17,13 @@ In this task, we created a Python project that reads data from a file, performs 
 #OUTPUT-
 
 <img width="860" height="281" alt="Image" src="https://github.com/user-attachments/assets/ee65f2ae-83d0-478f-9d5e-ae00f2e2437e" />
+
+
 <img width="987" height="816" alt="Image" src="https://github.com/user-attachments/assets/655341b0-7790-441f-88cb-caf42ad58014" />
+
+
 <img width="982" height="598" alt="Image" src="https://github.com/user-attachments/assets/2f19f828-f3ec-4973-b2fb-b055b6466c3e" />
+
+
 <img width="735" height="681" alt="Image" src="https://github.com/user-attachments/assets/a031aed4-b60e-44ea-a13a-f795637e4753" />
 
